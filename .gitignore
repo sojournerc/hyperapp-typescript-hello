@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+*.komodotool
+*.sublime*
+local_settings.py
+*.project
+
+**/node_modules/*
+
+build
+images
